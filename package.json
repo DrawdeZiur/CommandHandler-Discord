@@ -19,6 +19,7 @@
   "repository": {
     "url": "https://glitch.com/edit/#!/hello-express"
   },
+  "author": "Draw <jesus10edward@gmail.com>",
   "license": "MIT",
   "keywords": [
     "node",
