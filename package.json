@@ -4,7 +4,7 @@
   "//3": "updating this file will download and update your packages",
   "name": "CommandHandler-Discord-Glitch",
   "version": "0.0.1",
-  "description": "Small tutorial on how to make the command handler for your discord bots",
+  "description": "Small tutorial on how to make the command handler for your discord bots ("Glitch")",
   "main": "myboy.js",
   "scripts": {
     "start": "node mybot.js"
