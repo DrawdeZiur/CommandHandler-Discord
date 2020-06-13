@@ -1,4 +1,4 @@
-# CommandHandler-Discord-("Glitch")
+# CommandHandler-Discord-(Glitch)
 
 ## Introduction
 Small tutorial on how to make the command handler for your discord bots (Glitch)
