@@ -1,7 +1,7 @@
-# CommandHandler-Discord-(Glitch)
+# CommandHandler-Discord
 
 ## Introduction
-Small tutorial on how to make the command handler for your discord bots (Glitch)
+Small tutorial on how to make the command handler for your discord bots
 
 ## Usage
 just put the command file in the ./commands/ folder  
